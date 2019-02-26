@@ -7,3 +7,6 @@ b)sequence_headers- contain sequence_headers for downloaded file nrf1.fa
 c)sequence_unalgn contain downloaded fasta file nrf1.fa
 d)Extract_sequence.sh contain scripts used.
 
+Assignment-26-02-2019
+
+
