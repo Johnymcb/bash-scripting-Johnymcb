@@ -4,11 +4,7 @@ cd Introduction_To_Linux/
   188  mkdir Sequences-unlgn Sequences-algn Sequence-headers
   189  ls
   190  cd Sequences-unlgn/
-  191  wget "https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa"
-  192  wget https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa
-  193  wget https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa
-  194  Wget https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa
-  195  wget https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa
+  191  
   196  curl https://raw.githubusercontent.com/kipkurui/IntroductoryLinux/master/Data/nrf1_seq.fa > nrf1.fa
   197  ls
   198  grep ">" nrf1.fa > ../Sequence-headers/
